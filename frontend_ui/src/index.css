@@ -1,0 +1,36 @@
+body {
+  background-image: linear-gradient(to top right, #f6f6f6,#d7d7e5);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "RotaBlack";
+  src: local("RotaBlack"),
+    url("./Rota_fonts/Rota/Rota-Black.otf") format("truetype");
+}
+@font-face {
+  font-family: "RotaBold";
+  src: local("RotaBold"),
+    url("./Rota_fonts/Rota/Rota-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "RotaMedium";
+  src: local("RotaMedium"),
+    url("./Rota_fonts/Rota/Rota-Medium.otf") format("truetype");
+}
+@font-face {
+  font-family: "RotaRegular";
+  src: local("RotaRegular"),
+    url("./Rota_fonts/Rota/Rota-Regular.otf") format("truetype");
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

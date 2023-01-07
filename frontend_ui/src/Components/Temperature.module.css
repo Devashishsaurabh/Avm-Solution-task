@@ -1,0 +1,63 @@
+.container {
+  width:fit-content ;
+  border-radius: 10px;
+  font-family: "RotaBlack";
+  background-color: #dcdce0;
+  padding: 2px 30px 0px 20px;
+  text-align: left;
+}
+h3 {
+ margin-left: 3px;
+ color:#2D2D2D;
+  font-size: 21px;
+}
+.box {
+  margin-top: -17px;
+  display: flex;
+  align-items: center;
+ 
+}
+.Circle {
+  height: 120px;
+  width: 120px;
+  background-color: #5448c8;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.temp {
+  font-size: 65px;
+  color: white;
+  display: flex;
+}
+.celcius {
+  font-size: 23px;
+  margin-top: 43%;
+}
+.box1 {
+  display: flex;
+}
+.box1>img{
+ width:17px
+}
+.part {
+   border-bottom: 1px solid #999999;
+   margin-top: -20%;
+   margin-bottom: -20%;
+ }
+.tempr{
+   font-size: 30px;
+   display: flex;
+   color: #999999;
+   margin-left: 8px;
+}
+.cels{
+  margin-top: 12px;
+  font-size: 17px;
+  font-family: "RotaRegular";
+  padding-right: 25px;
+}
+.container2{
+   margin-left: 12px;
+}
