@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./Display.module.css"
+import styles from "../Styles/Display.module.css"
 const Display = () => {
   return (
     <div className={styles.container}>

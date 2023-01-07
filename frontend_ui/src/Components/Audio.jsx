@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Audio.module.css";
+import styles from "../Styles/Audio.module.css";
 const Audio = () => {
   return (
     <div className={styles.container}>

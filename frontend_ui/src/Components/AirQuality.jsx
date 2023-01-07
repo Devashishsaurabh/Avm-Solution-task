@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./AirQuality.module.css"
+import styles from "../Styles/AirQuality.module.css"
 const AirQuality = () => {
   return (
     <div className={styles.container}>

@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./Lighting.module.css";
+import styles from "../Styles/Lighting.module.css";
 const Lighting = () => {
   return (
     <div className={styles.container}>

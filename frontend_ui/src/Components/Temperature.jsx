@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "./Temperature.module.css"
+import styles from "../Styles/Temperature.module.css"
 
 const Temperature = () => {
   return (
