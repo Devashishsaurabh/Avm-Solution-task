@@ -15,8 +15,8 @@ function App() {
       <AirQuality/>
       <Temperature/>
       <Audio/>
-      <Lighting/>
       <Display/>
+      <Lighting/>
       </div>
     </div>
   );
